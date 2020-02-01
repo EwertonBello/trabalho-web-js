@@ -3,5 +3,5 @@ Desenvolvimento de uma página WEB. Que utilizando os componentes do Bulma Frame
 <Strong>Repositório da API: </Strong>(https://github.com/akabab/starwars-api)<br/>
 <Strong>Bulma: </Strong>(https://bulma.io/)<br/><br/>
 
-<Strong>Demo Javascript: </Strong>(http://ewertonbello.github.io/trabalho-web/)
+<Strong>Demo Javascript: </Strong>(http://ewertonbello.github.io/trabalho-web/)<br/>
 <Strong>Demo JQuery: </Strong>(http://ewertonbello.github.io/trabalho-web/jquery.html)
