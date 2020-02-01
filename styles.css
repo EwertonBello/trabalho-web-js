@@ -1,0 +1,16 @@
+body {
+  background: url(http://www.script-tutorials.com/demos/360/images/stars.png) top center #000;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+#logo {
+  width: 30vw;
+  margin-top: 10px;
+}
+
+.image-perfil {
+  height: 145px;
+  width: 128px;
+}
